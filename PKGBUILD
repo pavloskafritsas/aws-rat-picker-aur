@@ -7,7 +7,10 @@ pkgdesc="AWS Remote Access Tool (picker)"
 arch=('x86_64')
 url="https://github.com/pavloskafritsas/aws-rat-picker"
 license=('MIT')
-depends=('iniparser')
+depends=(
+    'aws-cli'
+    'iniparser'
+)
 makedepends=('git' 'gcc' 'make')
 source=(
     "git+https://github.com/pavloskafritsas/aws-rat-picker.git"
