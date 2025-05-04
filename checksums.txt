@@ -1,0 +1,2 @@
+sha256sums=('SKIP'
+            'c5808ef554020b63bde8a4318b5e379d03c6af1becacf5388fafa21b28177767')

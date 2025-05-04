@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=AWS RAT Picker
+Comment=Select and launch AWS profiles using AWS RAT
+Exec=aws-rat-picker
+Icon=utilities-terminal
+Terminal=true
+Type=Application
+Categories=Network;Utility;

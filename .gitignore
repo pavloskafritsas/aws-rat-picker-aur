@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!PKGBUILD
+!checksums.txt
+!LICENSE
+!*.md
+!aws-rat-picker.desktop
